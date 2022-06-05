@@ -44,5 +44,5 @@ I plan on learning and getting more comfortable with CSS Grid.
 
 ## Author
 
-- Frontend Mentor - [@yandrijaivkovic](https://www.frontendmentor.io/profile/andrijaivkovic)
+- Frontend Mentor - [@andrijaivkovic](https://www.frontendmentor.io/profile/andrijaivkovic)
 - Twitter - [@AndrijaIvkovic1](https://twitter.com/AndrijaIvkovic1/)
